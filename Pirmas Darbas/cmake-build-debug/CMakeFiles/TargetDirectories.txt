@@ -1,0 +1,3 @@
+C:/Users/s057661/Documents/StrukturinioDarbai/Pirmas Darbas/cmake-build-debug/CMakeFiles/Pirmas_Darbas.dir
+C:/Users/s057661/Documents/StrukturinioDarbai/Pirmas Darbas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s057661/Documents/StrukturinioDarbai/Pirmas Darbas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
